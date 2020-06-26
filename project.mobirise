@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Xavier Lim",
-    "currentPage": "CasesAndDeaths.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4436,7 +4436,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Hi, my name is Xavier. I am passionate about using data to discover trends and extract valuable insights related to the economy, market research, and sports analytics. This is my portfolio.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
