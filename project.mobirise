@@ -4439,7 +4439,8 @@
         "meta_descr": "Hi, my name is Xavier. I am passionate about using data to discover trends and extract valuable insights related to the economy, market research, and sports analytics. This is my portfolio.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/website-1280x640.png"
       },
       "components": [
         {
