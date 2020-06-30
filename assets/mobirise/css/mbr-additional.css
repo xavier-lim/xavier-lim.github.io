@@ -876,6 +876,11 @@ section.lazy-placeholder:after {
 .cid-s2W7PdkFsm .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-s2W7PdkFsm .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-s2W7PdkFsm .collapsed button.navbar-toggler {
   display: block;
 }
@@ -1329,6 +1334,11 @@ section.lazy-placeholder:after {
 .cid-s2W7PdkFsm .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-s2W7PdkFsm .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-s2W7PdkFsm .collapsed button.navbar-toggler {
   display: block;
 }
@@ -1745,6 +1755,11 @@ section.lazy-placeholder:after {
 .cid-s2W7PdkFsm .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-s2W7PdkFsm .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 1024px) {
+  .cid-s2W7PdkFsm .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-s2W7PdkFsm .collapsed button.navbar-toggler {
   display: block;
@@ -2172,6 +2187,11 @@ section.lazy-placeholder:after {
 .cid-s2W7PdkFsm .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-s2W7PdkFsm .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-s2W7PdkFsm .collapsed button.navbar-toggler {
   display: block;
 }
@@ -2589,6 +2609,11 @@ section.lazy-placeholder:after {
 .cid-s2W7PdkFsm .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-s2W7PdkFsm .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-s2W7PdkFsm .collapsed button.navbar-toggler {
   display: block;
 }
@@ -2994,6 +3019,11 @@ section.lazy-placeholder:after {
 .cid-s2W7PdkFsm .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-s2W7PdkFsm .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 1024px) {
+  .cid-s2W7PdkFsm .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-s2W7PdkFsm .collapsed button.navbar-toggler {
   display: block;
@@ -3448,6 +3478,11 @@ section.lazy-placeholder:after {
 .cid-s2Wyz6dkQU .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-s2Wyz6dkQU .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-s2Wyz6dkQU .collapsed button.navbar-toggler {
   display: block;
 }
@@ -3873,6 +3908,11 @@ section.lazy-placeholder:after {
 .cid-s2WB8l6hss .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-s2WB8l6hss .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 1024px) {
+  .cid-s2WB8l6hss .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-s2WB8l6hss .collapsed button.navbar-toggler {
   display: block;
@@ -4300,6 +4340,11 @@ section.lazy-placeholder:after {
 .cid-s2WBcKFuhM .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-s2WBcKFuhM .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-s2WBcKFuhM .collapsed button.navbar-toggler {
   display: block;
 }
@@ -4702,6 +4747,11 @@ section.lazy-placeholder:after {
 .cid-s2W7PdkFsm .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-s2W7PdkFsm .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 1024px) {
+  .cid-s2W7PdkFsm .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-s2W7PdkFsm .collapsed button.navbar-toggler {
   display: block;
