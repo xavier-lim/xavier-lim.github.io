@@ -4664,6 +4664,9 @@ section.lazy-placeholder:after {
 .cid-s8HQF6KQ3R .card-img:hover .mbr-section-btn {
   opacity: 1;
 }
+.cid-s8HQF6KQ3R .mbr-text {
+  text-align: left;
+}
 .cid-sc5klIwJmh {
   padding-top: 0px;
   padding-bottom: 45px;
@@ -4744,6 +4747,9 @@ section.lazy-placeholder:after {
 }
 .cid-sc5klIwJmh .card-img:hover .mbr-section-btn {
   opacity: 1;
+}
+.cid-sc5klIwJmh .mbr-text {
+  text-align: left;
 }
 .cid-s8Ml8BbhH0 {
   padding-top: 45px;
@@ -9564,7 +9570,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-sc5uRMhrJp {
-  background-image: url("../../../assets/images/netflix-1920x1237.jpg");
+  background-image: url("../../../assets/images/netflix-1920x1237.jpeg");
 }
 .cid-sc5uRN2oY7 .navbar {
   padding: .5rem 0;
