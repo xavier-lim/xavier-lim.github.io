@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Xavier Lim",
-    "currentPage": "index.html",
+    "currentPage": "FlixRecommender.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 166,
+    "uniqCompNum": 168,
     "versionPublish": "4.12.4",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -514,7 +514,7 @@
     },
     "HiddenBasketDashboards.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "",
         "title": "HiddenBasket Dashboards",
         "order": 2
       },
@@ -1014,7 +1014,7 @@
     },
     "Corrrelations.html": {
       "settings": {
-        "meta_descr": "Site Maker Description",
+        "meta_descr": "",
         "title": "Correlations",
         "order": 3
       },
@@ -1512,7 +1512,7 @@
     },
     "ModelPredictions.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "",
         "title": "Model Predictions",
         "order": 4
       },
@@ -2039,7 +2039,7 @@
     },
     "TeamPayroll.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "",
         "title": "Team Payroll",
         "order": 5
       },
@@ -3001,7 +3001,7 @@
     },
     "CovidLatCorrDashboards.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "",
         "title": "CovidLatCorr Dashboards",
         "order": 13
       },
@@ -3501,7 +3501,7 @@
     },
     "CasesAndDeaths.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "",
         "title": "Cases and Deaths",
         "order": 14
       },
@@ -4028,7 +4028,7 @@
     },
     "PerMillion.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "",
         "title": "Per Million",
         "order": 15
       },
@@ -5755,7 +5755,7 @@
     },
     "BasketizeDashboards.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "",
         "title": "Basketize Dashboards",
         "order": 7
       },
@@ -6323,7 +6323,7 @@
     },
     "BasketizeCorrelations.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "",
         "title": "Basketize Correlations",
         "order": 11
       },
@@ -6827,7 +6827,7 @@
     },
     "OptimizedRaptorsRoster.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "",
         "title": "Optimized Raptors Roster",
         "order": 8
       },
@@ -7331,7 +7331,7 @@
     },
     "OptimizedDreamTeam.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "",
         "title": "Optimized Dream Team",
         "order": 10
       },
@@ -7835,7 +7835,7 @@
     },
     "NBARosterPayrollBreakdown.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "",
         "title": "NBA Roster Payroll Breakdown",
         "order": 9
       },
@@ -8339,7 +8339,7 @@
     },
     "AboutMe.html": {
       "settings": {
-        "meta_descr": "Web Site Creator Description",
+        "meta_descr": "",
         "title": "About Me",
         "order": 20
       },
@@ -8872,7 +8872,7 @@
     },
     "Sprocket.html": {
       "settings": {
-        "meta_descr": "Sprocket is a project I developed to help a fictional bike company determine which customers to target based on customer demographics.",
+        "meta_descr": "",
         "title": "Sprocket",
         "order": 16
       },
@@ -9329,7 +9329,7 @@
     },
     "SprocketDashboards.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "",
         "title": "Sprocket Dashboards",
         "order": 17
       },
@@ -9858,7 +9858,8 @@
       "settings": {
         "meta_descr": "My submission to Kaggle's Housing Price Prediction Competition, resulting in a top 7% finish.",
         "title": "Housing Price Prediction",
-        "order": 19
+        "order": 19,
+        "meta_image": "@PROJECT_PATH@/assets/images/breno-assis-r3wawu5fi5q-unsplash-1920x1280.jpg"
       },
       "components": [
         {
@@ -10315,7 +10316,8 @@
       "settings": {
         "meta_descr": "Model that recommends Netflix movies and TV shows based on a user's favourite movie or TV show. The model uses NLP and clustering.",
         "title": "FlixRecommender",
-        "order": 18
+        "order": 18,
+        "meta_image": "@PROJECT_PATH@/assets/images/netflix-1-1920x1237.jpeg"
       },
       "components": [
         {
@@ -10333,7 +10335,7 @@
             }
           },
           "_name": "header2",
-          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/netflix-1-1920x1237.jpeg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">FlixRecommender</h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">Netflix Movie &amp; TV Show Recommender</h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Click any text to edit or style it. Select text to insert a link. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add themes.\n                </p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-success\" href=\"FlixRecommender.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\"></span>Web App (Coming Soon)</a> <a class=\"btn btn-md btn-danger\" href=\"https://github.com/xavier-lim/flixRecommender\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>Github Repo</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/netflix-1-1920x1237.jpeg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">Flix Recommender</h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">Netflix Movie &amp; TV Show Recommender</h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Click any text to edit or style it. Select text to insert a link. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add themes.\n                </p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-success\" href=\"FlixRecommender.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-browse mbr-iconfont mbr-iconfont-btn\"></span>Web App (Coming Soon)</a> <a class=\"btn btn-md btn-danger\" href=\"https://github.com/xavier-lim/flixRecommender\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>Github Repo</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_cid": "sc5uRMhrJp",
           "_anchor": "header2-4i",
           "_protectedParams": [],
